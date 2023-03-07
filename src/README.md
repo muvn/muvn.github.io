@@ -1,13 +1,13 @@
 ---
 home: true
-title: 烧风
+title: muvn
 description: 主页
 heroImage: /images/logo.png
 actions:
   - text: 查看博文
     link: /blog/
     type: primary
-  - text: 关于烧风
+  - text: 关于muvn
     link: /about/
     type: secondary
 ---
@@ -37,11 +37,6 @@ actions:
 
 ::: center
 
-<footer class="footer">
-Copyright © 2019-{{ new Date().getFullYear() }} HK-SHAO
-<p>
-  <a href="https://icp.gov.moe/?keyword=20222718" target="_blank">萌ICP备20222718号</a>
-</p>
-</footer>
+
 
 :::
