@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as _,a as n}from"./app.8ffbb252.js";const c={},s=n("div",{style:{"text-align":"center"}},null,-1),o=[s];function l(a,i){return t(),_("div",null,o)}const d=e(c,[["render",l],["__file","index.html.vue"]]);export{d as default};
